@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Isabel Garcia
+FN;CHARSET=utf-8:Isabel Garcia
+ORG;CHARSET=utf-8:Tennessee Auto Insurance Agency
+TITLE;CHARSET=utf-8:Agent
+TEL;WORK;VOICE:(615) 893-6177
+TEL;VOICE:
+TEL;WORK;FAX:
+ADR;TYPE=WORK:Murfreesboro Office;925 South Church Street;A300;Murfreesboro;TN;37130
+LABEL;TYPE=WORK:Murfreesboro Office\n925 South Church Street\nA300\nMurfreesboro, TN 37130
+EMAIL;TYPE=PREF,INTERNET:isabel@insuringyouforless.com
+URL;WORK:https://www.insuringyouforless.com/
+REV:20261022T035314Z
+END:VCARD

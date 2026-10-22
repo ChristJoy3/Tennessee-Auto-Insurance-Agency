@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Crystal Shaw
+FN;CHARSET=utf-8:Crystal Shaw
+ORG;CHARSET=utf-8:Tennessee Auto Insurance Agency
+TITLE;CHARSET=utf-8:Agent
+TEL;WORK;VOICE:(615) 624-8007
+TEL;VOICE:
+TEL;WORK;FAX:
+ADR;TYPE=WORK:Smyrna Office;244 N Lowry St.,;Smyrna;TN;37167
+LABEL;TYPE=WORK:Smyrna Office\n244 N Lowry St.,\nSmyrna, TN 37167
+EMAIL;TYPE=PREF,INTERNET:crystal@insuringyouforless.com
+URL;WORK:https://www.insuringyouforless.com/
+REV:20261022T035315Z
+END:VCARD

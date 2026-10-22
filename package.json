@@ -6,9 +6,20 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "migrate:crawl": "tsx migration/scripts/crawl.ts",
+    "migrate:data": "tsx migration/scripts/fetch-data.ts",
+    "migrate:extract": "tsx migration/scripts/extract.ts && tsx migration/scripts/structure.ts",
+    "migrate:images": "tsx migration/scripts/download-images.ts && tsx migration/scripts/optimize-images.ts",
+    "migrate:favicons": "tsx migration/scripts/generate-favicons.ts --small=A --large=A",
+    "migrate:content": "tsx migration/scripts/build-content.ts",
+    "migrate:redirects": "tsx migration/scripts/build-redirects.ts",
+    "verify": "tsx migration/scripts/verify-coverage.ts"
   },
   "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.27",
     "next": "16.4.2",
     "react": "19.3.0",
     "react-dom": "19.3.0"
@@ -18,9 +29,13 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "cheerio": "^1.2.0",
     "eslint": "^9",
     "eslint-config-next": "16.4.2",
+    "playwright-core": "^1.64.1",
+    "sharp": "^0.35.5",
     "tailwindcss": "^4",
+    "tsx": "^4.23.15",
     "typescript": "^5"
   }
 }

@@ -1,0 +1,3757 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/about.aspx",
+      "destination": "/about/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-of-service/hendersonville.aspx",
+      "destination": "/areas-of-service/hendersonville/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-of-service/nashville.aspx",
+      "destination": "/areas-of-service/nashville/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-service/murfeesboro.aspx",
+      "destination": "/areas-we-service/murfreesboro/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-service/murfreesboro.aspx",
+      "destination": "/areas-we-service/murfreesboro/",
+      "permanent": true
+    },
+    {
+      "source": "/auto-insurance-antioch",
+      "destination": "/auto-insurance-antioch/",
+      "permanent": true
+    },
+    {
+      "source": "/auto-insurance-antioch/default.aspx",
+      "destination": "/auto-insurance-antioch/",
+      "permanent": true
+    },
+    {
+      "source": "/auto-insurance-la-vergne",
+      "destination": "/auto-insurance-la-vergne/",
+      "permanent": true
+    },
+    {
+      "source": "/auto-insurance-la-vergne/default.aspx",
+      "destination": "/auto-insurance-la-vergne/",
+      "permanent": true
+    },
+    {
+      "source": "/auto-insurance-smyrna/default.aspx",
+      "destination": "/auto-insurance-smyrna/",
+      "permanent": true
+    },
+    {
+      "source": "/automobile",
+      "destination": "/automobile/",
+      "permanent": true
+    },
+    {
+      "source": "/automobile/car_insurance_quote.aspx",
+      "destination": "https://b01452c8-45f4-4f3e-90f9-5581bc2898f6.quotes.iwantinsurance.com/auto",
+      "permanent": true
+    },
+    {
+      "source": "/blog/10-best-tire-tips-for-your-next-road-trip.aspx",
+      "destination": "/blog/10-best-tire-tips-for-your-next-road-trip/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/10-things-to-keep-in-mind-before-you-loan-your-car.aspx",
+      "destination": "/blog/10-things-to-keep-in-mind-before-you-loan-your-car/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/10-tips-for-riding-your-motorcycle-safely-this-summer.aspx",
+      "destination": "/blog/10-tips-for-riding-your-motorcycle-safely-this-summer/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/13-common-car-insurance-myths-busted.aspx",
+      "destination": "/blog/13-common-car-insurance-myths-busted/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/14-safety-tips-for-nighttime-driving.aspx",
+      "destination": "/blog/14-safety-tips-for-nighttime-driving/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/15-beginner-friendly-driving-tips.aspx",
+      "destination": "/blog/15-beginner-friendly-driving-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/15-car-care-tips-for-women-essential-steps-for-road-safety.aspx",
+      "destination": "/blog/15-car-care-tips-for-women-essential-steps-for-road-safety/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/15-must-have-car-safety-features-in-2025.aspx",
+      "destination": "/blog/15-must-have-car-safety-features-in-2025/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-common-times-you-need-commercial-auto-insurance.aspx",
+      "destination": "/blog/5-common-times-you-need-commercial-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-motorcycle-diy-you-should-know.aspx",
+      "destination": "/blog/5-motorcycle-diy-you-should-know/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/5-ways-to-make-your-home-safer.aspx",
+      "destination": "/blog/5-ways-to-make-your-home-safer/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/6-important-things-to-keep-in-your-car.aspx",
+      "destination": "/blog/6-important-things-to-keep-in-your-car/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/7-auto-insurance-risks-tennessee-drivers-shouldnt-ignore.aspx",
+      "destination": "/blog/7-auto-insurance-risks-tennessee-drivers-shouldnt-ignore/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/9-common-car-accidents-and-how-to-avoid-them.aspx",
+      "destination": "/blog/9-common-car-accidents-and-how-to-avoid-them/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/actions-to-take-in-the-event-of-a-car-accident.aspx",
+      "destination": "/blog/actions-to-take-in-the-event-of-a-car-accident/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/adjusting-your-auto-insurance-when-you-move.aspx",
+      "destination": "/blog/adjusting-your-auto-insurance-when-you-move/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/are-you-underinsured-we-can-help.aspx",
+      "destination": "/blog/are-you-underinsured-we-can-help/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/are-you-uninsured.aspx",
+      "destination": "/blog/are-you-uninsured/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/auto-insurance-discounts.aspx",
+      "destination": "/blog/auto-insurance-discounts/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/auto-insurance-reducing-your-costs.aspx",
+      "destination": "/blog/auto-insurance-reducing-your-costs/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-7-money-saving-winter-driving-tips.aspx",
+      "destination": "/blog/best-7-money-saving-winter-driving-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-spring-driving-tips.aspx",
+      "destination": "/blog/best-spring-driving-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-tips-for-bike-week.aspx",
+      "destination": "/blog/best-tips-for-bike-week/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-vehicle-resale-tips-how-tires-mileage-and-interior-condition-affect-buyer-interest.aspx",
+      "destination": "/blog/best-vehicle-resale-tips-how-tires-mileage-and-interior-condition-affect-buyer-interest/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-way-to-wash-your-car.aspx",
+      "destination": "/blog/best-way-to-wash-your-car/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/car-and-road-safety-for-kids.aspx",
+      "destination": "/blog/car-and-road-safety-for-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/car-rules-for-kids-every-parent-must-teach-\\(and-how-they-affect-your-insurance\\).aspx",
+      "destination": "/blog/car-rules-for-kids-every-parent-must-teach-and-how-they-affect-your-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/choosing-the-right-motorcycle-helmet.aspx",
+      "destination": "/blog/choosing-the-right-motorcycle-helmet/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/commercial-auto-coverage-for-ride-share-food-delivery-independent-contractors-box-truck-towing.aspx",
+      "destination": "/blog/commercial-auto-coverage-for-ride-share-food-delivery-independent-contractors-box-truck-towing/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/de-icing-your-car-in-winter-do-it-right-or-regret-it-later.aspx",
+      "destination": "/blog/de-icing-your-car-in-winter-do-it-right-or-regret-it-later/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/defensive-driving-tips-that-could-save-your-life.aspx",
+      "destination": "/blog/defensive-driving-tips-that-could-save-your-life/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diy-vs-professional-maintenance.aspx",
+      "destination": "/blog/diy-vs-professional-maintenance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/do-high-deductible-auto-insurance-plans-save-money.aspx",
+      "destination": "/blog/do-high-deductible-auto-insurance-plans-save-money/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/does-your-insurance-cover-you-if-you-borrow-someones-car.aspx",
+      "destination": "/blog/does-your-insurance-cover-you-if-you-borrow-someones-car/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/essential-emergency-car-kit-checklist-what-every-driver-needs.aspx",
+      "destination": "/blog/essential-emergency-car-kit-checklist-what-every-driver-needs/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/essential-tips-for-navigating-rain-storms-and-slippery-roads.aspx",
+      "destination": "/blog/essential-tips-for-navigating-rain-storms-and-slippery-roads/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/expert-secrets-to-keep-your-ride-looking-brand-new.aspx",
+      "destination": "/blog/expert-secrets-to-keep-your-ride-looking-brand-new/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/factors-that-affect-your-car-insurance-rate.aspx",
+      "destination": "/blog/factors-that-affect-your-car-insurance-rate/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/home-buying-101.aspx",
+      "destination": "/blog/home-buying-101/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/home-inspections-and-improvements-to-make-this-year.aspx",
+      "destination": "/blog/home-inspections-and-improvements-to-make-this-year/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-do-you-have-to-have-sr-22-insurance.aspx",
+      "destination": "/blog/how-long-do-you-have-to-have-sr-22-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-modern-safety-features-help-prevent-accidents.aspx",
+      "destination": "/blog/how-modern-safety-features-help-prevent-accidents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-much-does-full-coverage-cost-for-a-motorcycle.aspx",
+      "destination": "/blog/how-much-does-full-coverage-cost-for-a-motorcycle/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-be-a-smart-winter-driver.aspx",
+      "destination": "/blog/how-to-be-a-smart-winter-driver/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-get-your-car-out-of-mud.aspx",
+      "destination": "/blog/how-to-get-your-car-out-of-mud/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-keep-your-car-smelling-fresh.aspx",
+      "destination": "/blog/how-to-keep-your-car-smelling-fresh/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-prepare-your-car-for-winter.aspx",
+      "destination": "/blog/how-to-prepare-your-car-for-winter/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-protect-kids-from-reversing-vehicles.aspx",
+      "destination": "/blog/how-to-protect-kids-from-reversing-vehicles/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-protect-your-car-safety-security-smart-driving-tips.aspx",
+      "destination": "/blog/how-to-protect-your-car-safety-security-smart-driving-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-prove-a-speeding-driver-caused-your-car-accident.aspx",
+      "destination": "/blog/how-to-prove-a-speeding-driver-caused-your-car-accident/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-reduce-fuel-consumption-12-practical-ways-to-save-fuel-and-money.aspx",
+      "destination": "/blog/how-to-reduce-fuel-consumption-12-practical-ways-to-save-fuel-and-money/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-safely-change-a-flat-tire-on-a-roadside.aspx",
+      "destination": "/blog/how-to-safely-change-a-flat-tire-on-a-roadside/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-save-gas-and-cut-car-costs.aspx",
+      "destination": "/blog/how-to-save-gas-and-cut-car-costs/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-save-on-home-insurance.aspx",
+      "destination": "/blog/how-to-save-on-home-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-share-the-road-safely-with-heavy-vehicles.aspx",
+      "destination": "/blog/how-to-share-the-road-safely-with-heavy-vehicles/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/i-hit-a-deer-what-do-i-do-next.aspx",
+      "destination": "/blog/i-hit-a-deer-what-do-i-do-next/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insurance-as-the-perfect-holidays-gift.aspx",
+      "destination": "/blog/insurance-as-the-perfect-holidays-gift/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-auto-insurance-cheaper-if-bundled-with-home-insurance.aspx",
+      "destination": "/blog/is-auto-insurance-cheaper-if-bundled-with-home-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-car-insurance-cheaper-in-the-city-or-the-suburbs.aspx",
+      "destination": "/blog/is-car-insurance-cheaper-in-the-city-or-the-suburbs/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mistakes-not-to-make-when-getting-auto-insurance.aspx",
+      "destination": "/blog/mistakes-not-to-make-when-getting-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/motorcycle-insurance-for-young-adults.aspx",
+      "destination": "/blog/motorcycle-insurance-for-young-adults/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/motorcycle-safety-courses.aspx",
+      "destination": "/blog/motorcycle-safety-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/never-leave-these-things-in-your-car.aspx",
+      "destination": "/blog/never-leave-these-things-in-your-car/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/night-driving-tips.aspx",
+      "destination": "/blog/night-driving-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/plan-a-safe-driving-route-with-these-things-in-mind.aspx",
+      "destination": "/blog/plan-a-safe-driving-route-with-these-things-in-mind/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/pros-and-cons-of-adding-a-teen-driver-to-your-car-insurance-policy.aspx",
+      "destination": "/blog/pros-and-cons-of-adding-a-teen-driver-to-your-car-insurance-policy/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/protecting-your-car-during-pothole-season.aspx",
+      "destination": "/blog/protecting-your-car-during-pothole-season/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/renters-insurance-and-expenses-coverage.aspx",
+      "destination": "/blog/renters-insurance-and-expenses-coverage/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/safe-winter-driving-tips.aspx",
+      "destination": "/blog/safe-winter-driving-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/selling-your-vehicle.aspx",
+      "destination": "/blog/selling-your-vehicle/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sharing-the-road-with-other-road-users-in-summer.aspx",
+      "destination": "/blog/sharing-the-road-with-other-road-users-in-summer/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/signs-your-vehicle-needs-attention-and-why-servicing-matters.aspx",
+      "destination": "/blog/signs-your-vehicle-needs-attention-and-why-servicing-matters/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/simple-ways-to-avoid-road-rage.aspx",
+      "destination": "/blog/simple-ways-to-avoid-road-rage/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/snacks-to-pack-for-a-long-road-trip.aspx",
+      "destination": "/blog/snacks-to-pack-for-a-long-road-trip/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/so-you-are-about-to-buy-your-first-car.aspx",
+      "destination": "/blog/so-you-are-about-to-buy-your-first-car/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/so-your-car-got-scratched-whats-next.aspx",
+      "destination": "/blog/so-your-car-got-scratched-whats-next/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/so-youre-driving-home-for-christmas.aspx",
+      "destination": "/blog/so-youre-driving-home-for-christmas/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/auto%20insurance%20accidents/",
+      "destination": "/blog/tag/auto-insurance-accidents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/auto%20insurance%20quotes/",
+      "destination": "/blog/tag/auto-insurance-quotes/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/auto%20insurance",
+      "destination": "/blog/tag/auto-insurance/",
+      "permanent": true,
+      "has": [
+        {
+          "type": "query",
+          "key": "/",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "source": "/blog/tag/auto%20insurance/",
+      "destination": "/blog/tag/auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/basic%20insurance/",
+      "destination": "/blog/tag/basic-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/boat%20insurance/",
+      "destination": "/blog/tag/boat-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/business%20auto%20insurance/",
+      "destination": "/blog/tag/business-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/business%20auto/",
+      "destination": "/blog/tag/business-auto/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/car%20insurance%20accident/",
+      "destination": "/blog/tag/car-insurance-accident/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/car%20insurance%20quotes/",
+      "destination": "/blog/tag/car-insurance-quotes/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/car%20insurance/",
+      "destination": "/blog/tag/car-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/cheap%20auto%20insurance/",
+      "destination": "/blog/tag/cheap-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/cheap%20car%20insurance/",
+      "destination": "/blog/tag/cheap-car-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/commercial%20auto%20insurance/",
+      "destination": "/blog/tag/commercial-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/commercial%20auto/",
+      "destination": "/blog/tag/commercial-auto/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/commercial%20insurance/",
+      "destination": "/blog/tag/commercial-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/full%20coverage%20insurance%20quotes/",
+      "destination": "/blog/tag/full-coverage-insurance-quotes/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/home%20inspections/",
+      "destination": "/blog/tag/home-inspections/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/home%20insurance/",
+      "destination": "/blog/tag/home-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/homeowners%20insurance/",
+      "destination": "/blog/tag/homeowners-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/insurance%20prices/",
+      "destination": "/blog/tag/insurance-prices/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/insurance%20quotes/",
+      "destination": "/blog/tag/insurance-quotes/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/insurance%20rates/",
+      "destination": "/blog/tag/insurance-rates/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/liability%20insurance%20quotes/",
+      "destination": "/blog/tag/liability-insurance-quotes/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/liability%20insurance/",
+      "destination": "/blog/tag/liability-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/minimum%20liability/",
+      "destination": "/blog/tag/minimum-liability/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/motorcycle%20insurance/",
+      "destination": "/blog/tag/motorcycle-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/nonstandard%20auto%20insurance/",
+      "destination": "/blog/tag/nonstandard-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/renters%20insurance/",
+      "destination": "/blog/tag/renters-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/sr22%20insurance/",
+      "destination": "/blog/tag/sr22-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tag/winter%20driving/",
+      "destination": "/blog/tag/winter-driving/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/technological-advancements-to-expect-in-future-cars.aspx",
+      "destination": "/blog/technological-advancements-to-expect-in-future-cars/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/teen-driving-101-the-ultimate-teen-driving-guide-for-parents-and-teens.aspx",
+      "destination": "/blog/teen-driving-101-the-ultimate-teen-driving-guide-for-parents-and-teens/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tennessee-insurance-laws.aspx",
+      "destination": "/blog/tennessee-insurance-laws/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-hidden-habits-that-could-be-making-you-a-high-risk-driver.aspx",
+      "destination": "/blog/the-hidden-habits-that-could-be-making-you-a-high-risk-driver/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-most-important-drive-of-your-life-preparing-for-the-hospital-with-your-pregnant-wife.aspx",
+      "destination": "/blog/the-most-important-drive-of-your-life-preparing-for-the-hospital-with-your-pregnant-wife/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-ultimate-guide-to-choosing-installing-adjusting-your-childs-car-seat.aspx",
+      "destination": "/blog/the-ultimate-guide-to-choosing-installing-adjusting-your-childs-car-seat/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-ultimate-guide-to-extending-the-life-of-your-car.aspx",
+      "destination": "/blog/the-ultimate-guide-to-extending-the-life-of-your-car/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-ultimate-guide-to-protecting-your-car-from-hail-damage.aspx",
+      "destination": "/blog/the-ultimate-guide-to-protecting-your-car-from-hail-damage/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-ultimate-guide-to-traveling-with-dogs-in-the-summer.aspx",
+      "destination": "/blog/the-ultimate-guide-to-traveling-with-dogs-in-the-summer/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/things-that-can-damage-your-car-paint-\\(and-how-to-save-it-before-its-too-late\\).aspx",
+      "destination": "/blog/things-that-can-damage-your-car-paint-and-how-to-save-it-before-its-too-late/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tips-for-choosing-the-right-mechanic-or-auto-shop.aspx",
+      "destination": "/blog/tips-for-choosing-the-right-mechanic-or-auto-shop/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tips-for-safe-fall-driving.aspx",
+      "destination": "/blog/tips-for-safe-fall-driving/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tips-to-ensure-a-smooth-insurance-claim.aspx",
+      "destination": "/blog/tips-to-ensure-a-smooth-insurance-claim/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tips-to-keep-you-and-your-car-safe-at-night.aspx",
+      "destination": "/blog/tips-to-keep-you-and-your-car-safe-at-night/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tips-to-prevent-distraction-while-driving-10-practical-ways-to-stay-focused.aspx",
+      "destination": "/blog/tips-to-prevent-distraction-while-driving-10-practical-ways-to-stay-focused/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/top-15-winter-car-survival-checklist.aspx",
+      "destination": "/blog/top-15-winter-car-survival-checklist/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/top-reasons-to-switch-car-insurance-today.aspx",
+      "destination": "/blog/top-reasons-to-switch-car-insurance-today/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/understanding-your-auto-insurance.aspx",
+      "destination": "/blog/understanding-your-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/vehicle-maintenance-and-car-insurance-how-regular-car-care-reduces-risks-and-costs.aspx",
+      "destination": "/blog/vehicle-maintenance-and-car-insurance-how-regular-car-care-reduces-risks-and-costs/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-are-tennessees-car-insurance-requirements.aspx",
+      "destination": "/blog/what-are-tennessees-car-insurance-requirements/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-are-the-commercial-auto-insurance-requirements-in-tennessee.aspx",
+      "destination": "/blog/what-are-the-commercial-auto-insurance-requirements-in-tennessee/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-are-the-differences-between-octanes-of-gas.aspx",
+      "destination": "/blog/what-are-the-differences-between-octanes-of-gas/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-does-full-coverage-car-insurance-mean.aspx",
+      "destination": "/blog/what-does-full-coverage-car-insurance-mean/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-does-liability-cover.aspx",
+      "destination": "/blog/what-does-liability-cover/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-insurance-steps-to-take-after-car-accident.aspx",
+      "destination": "/blog/what-insurance-steps-to-take-after-car-accident/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-is-basic-auto-insurance-coverage.aspx",
+      "destination": "/blog/what-is-basic-auto-insurance-coverage/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-is-full-coverage-auto-insurance.aspx",
+      "destination": "/blog/what-is-full-coverage-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-is-nonstandard-auto-insurance.aspx",
+      "destination": "/blog/what-is-nonstandard-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-is-renters-insurance.aspx",
+      "destination": "/blog/what-is-renters-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-is-the-average-cost-of-boat-insurance.aspx",
+      "destination": "/blog/what-is-the-average-cost-of-boat-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-rules-should-you-set-for-a-teen-driver.aspx",
+      "destination": "/blog/what-rules-should-you-set-for-a-teen-driver/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-suggestions-do-we-have-for-new-and-student-drivers.aspx",
+      "destination": "/blog/what-suggestions-do-we-have-for-new-and-student-drivers/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-to-do-if-your-car-is-stolen.aspx",
+      "destination": "/blog/what-to-do-if-your-car-is-stolen/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-to-do-when-your-car-brakes-fail.aspx",
+      "destination": "/blog/what-to-do-when-your-car-brakes-fail/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-you-should-understand-about-electric-vehicles.aspx",
+      "destination": "/blog/what-you-should-understand-about-electric-vehicles/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/whats-under-the-hood-of-my-car.aspx",
+      "destination": "/blog/whats-under-the-hood-of-my-car/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/who-is-at-fault-in-a-sideswipe-car-accident-heres-what-you-need-to-know.aspx",
+      "destination": "/blog/who-is-at-fault-in-a-sideswipe-car-accident-heres-what-you-need-to-know/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/why-am-i-a-distracted-driver-understanding-and-preventing-dangerous-habits.aspx",
+      "destination": "/blog/why-am-i-a-distracted-driver-understanding-and-preventing-dangerous-habits/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/why-apartments-require-renters-insurance.aspx",
+      "destination": "/blog/why-apartments-require-renters-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/why-is-having-proof-of-insurance-so-important.aspx",
+      "destination": "/blog/why-is-having-proof-of-insurance-so-important/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/why-wont-my-car-start-in-the-cold.aspx",
+      "destination": "/blog/why-wont-my-car-start-in-the-cold/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/will-a-parking-ticket-affect-insurance-rates.aspx",
+      "destination": "/blog/will-a-parking-ticket-affect-insurance-rates/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/winterize-your-home-to-help-prevent-frozen-pipes.aspx",
+      "destination": "/blog/winterize-your-home-to-help-prevent-frozen-pipes/",
+      "permanent": true
+    },
+    {
+      "source": "/boat",
+      "destination": "/boat/",
+      "permanent": true
+    },
+    {
+      "source": "/boat/watercraft_insurance_quote.aspx",
+      "destination": "/get_a_quote/#boat",
+      "permanent": true
+    },
+    {
+      "source": "/business/commercial_auto_quote.aspx",
+      "destination": "/get_a_quote/#commercial_auto",
+      "permanent": true
+    },
+    {
+      "source": "/category.aspx",
+      "destination": "/content/tn-drivers-license-reinstatement/",
+      "permanent": true,
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "MISC1"
+        }
+      ]
+    },
+    {
+      "source": "/category.aspx",
+      "destination": "/category/",
+      "permanent": true,
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "MISC2"
+        }
+      ]
+    },
+    {
+      "source": "/claims.aspx",
+      "destination": "/claims/",
+      "permanent": true
+    },
+    {
+      "source": "/commercial_auto",
+      "destination": "/commercial_auto/",
+      "permanent": true
+    },
+    {
+      "source": "/commercial_auto/default.aspx",
+      "destination": "/commercial_auto/",
+      "permanent": true
+    },
+    {
+      "source": "/contact.aspx",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/0",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/100",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/1300",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/200",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/300",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/400",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/900",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/ashley_lowe",
+      "destination": "/contact/ashley_lowe/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/ashley_lowe.aspx",
+      "destination": "/employees/ashley-lowe/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/brandi_twaddle",
+      "destination": "/contact/brandi_twaddle/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/brandi_twaddle.aspx",
+      "destination": "/employees/brandi-twaddle/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/brianna_estrada",
+      "destination": "/contact/brianna_estrada/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/brianna_estrada.aspx",
+      "destination": "/employees/brianna-estrada/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/crystal_shaw",
+      "destination": "/contact/crystal_shaw/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/crystal_shaw.aspx",
+      "destination": "/employees/crystal-shaw/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/gaby_rincon",
+      "destination": "/contact/gaby_rincon/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/gaby_rincon.aspx",
+      "destination": "/employees/gaby-rincon/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/isabel_garcia",
+      "destination": "/contact/isabel_garcia/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/isabel_garcia.aspx",
+      "destination": "/employees/isabel-garcia/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/melinda_hernandez",
+      "destination": "/contact/melinda_hernandez/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/melinda_hernandez.aspx",
+      "destination": "/employees/melinda-hernandez/",
+      "permanent": true
+    },
+    {
+      "source": "/content/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/content/smyrna",
+      "destination": "/content/smyrna/",
+      "permanent": true
+    },
+    {
+      "source": "/content/smyrna.aspx",
+      "destination": "/content/smyrna/",
+      "permanent": true
+    },
+    {
+      "source": "/content/tn-drivers-license-reinstatement.aspx",
+      "destination": "/content/tn-drivers-license-reinstatement/",
+      "permanent": true
+    },
+    {
+      "source": "/customer_service/",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/about.aspx",
+      "destination": "/es-us/about/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/areas-of-service/hendersonville.aspx",
+      "destination": "/es-us/areas-of-service/hendersonville/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/areas-of-service/nashville.aspx",
+      "destination": "/es-us/areas-of-service/nashville/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/areas-we-service/murfeesboro.aspx",
+      "destination": "/es-us/areas-we-service/murfreesboro/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/areas-we-service/murfreesboro.aspx",
+      "destination": "/es-us/areas-we-service/murfreesboro/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/auto-insurance-antioch",
+      "destination": "/es-us/auto-insurance-antioch/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/auto-insurance-antioch/default.aspx",
+      "destination": "/es-us/auto-insurance-antioch/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/auto-insurance-la-vergne",
+      "destination": "/es-us/auto-insurance-la-vergne/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/auto-insurance-la-vergne/default.aspx",
+      "destination": "/es-us/auto-insurance-la-vergne/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/auto-insurance-smyrna/default.aspx",
+      "destination": "/es-us/auto-insurance-smyrna/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/automobile",
+      "destination": "/es-us/automobile/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/automobile/car_insurance_quote.aspx",
+      "destination": "https://b01452c8-45f4-4f3e-90f9-5581bc2898f6.quotes.iwantinsurance.com/auto",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/10-best-tire-tips-for-your-next-road-trip.aspx",
+      "destination": "/es-us/blog/10-best-tire-tips-for-your-next-road-trip/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/10-things-to-keep-in-mind-before-you-loan-your-car.aspx",
+      "destination": "/es-us/blog/10-things-to-keep-in-mind-before-you-loan-your-car/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/10-tips-for-riding-your-motorcycle-safely-this-summer.aspx",
+      "destination": "/es-us/blog/10-tips-for-riding-your-motorcycle-safely-this-summer/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/13-common-car-insurance-myths-busted.aspx",
+      "destination": "/es-us/blog/13-common-car-insurance-myths-busted/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/14-safety-tips-for-nighttime-driving.aspx",
+      "destination": "/es-us/blog/14-safety-tips-for-nighttime-driving/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/15-beginner-friendly-driving-tips.aspx",
+      "destination": "/es-us/blog/15-beginner-friendly-driving-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/15-car-care-tips-for-women-essential-steps-for-road-safety.aspx",
+      "destination": "/es-us/blog/15-car-care-tips-for-women-essential-steps-for-road-safety/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/15-must-have-car-safety-features-in-2025.aspx",
+      "destination": "/es-us/blog/15-must-have-car-safety-features-in-2025/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/5-common-times-you-need-commercial-auto-insurance.aspx",
+      "destination": "/es-us/blog/5-common-times-you-need-commercial-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/5-motorcycle-diy-you-should-know.aspx",
+      "destination": "/es-us/blog/5-motorcycle-diy-you-should-know/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/5-ways-to-make-your-home-safer.aspx",
+      "destination": "/es-us/blog/5-ways-to-make-your-home-safer/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/6-important-things-to-keep-in-your-car.aspx",
+      "destination": "/es-us/blog/6-important-things-to-keep-in-your-car/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/7-auto-insurance-risks-tennessee-drivers-shouldnt-ignore.aspx",
+      "destination": "/es-us/blog/7-auto-insurance-risks-tennessee-drivers-shouldnt-ignore/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/9-common-car-accidents-and-how-to-avoid-them.aspx",
+      "destination": "/es-us/blog/9-common-car-accidents-and-how-to-avoid-them/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/actions-to-take-in-the-event-of-a-car-accident.aspx",
+      "destination": "/es-us/blog/actions-to-take-in-the-event-of-a-car-accident/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/adjusting-your-auto-insurance-when-you-move.aspx",
+      "destination": "/es-us/blog/adjusting-your-auto-insurance-when-you-move/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/are-you-underinsured-we-can-help.aspx",
+      "destination": "/es-us/blog/are-you-underinsured-we-can-help/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/are-you-uninsured.aspx",
+      "destination": "/es-us/blog/are-you-uninsured/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/auto-insurance-discounts.aspx",
+      "destination": "/es-us/blog/auto-insurance-discounts/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/auto-insurance-reducing-your-costs.aspx",
+      "destination": "/es-us/blog/auto-insurance-reducing-your-costs/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/best-7-money-saving-winter-driving-tips.aspx",
+      "destination": "/es-us/blog/best-7-money-saving-winter-driving-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/best-spring-driving-tips.aspx",
+      "destination": "/es-us/blog/best-spring-driving-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/best-tips-for-bike-week.aspx",
+      "destination": "/es-us/blog/best-tips-for-bike-week/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/best-vehicle-resale-tips-how-tires-mileage-and-interior-condition-affect-buyer-interest.aspx",
+      "destination": "/es-us/blog/best-vehicle-resale-tips-how-tires-mileage-and-interior-condition-affect-buyer-interest/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/best-way-to-wash-your-car.aspx",
+      "destination": "/es-us/blog/best-way-to-wash-your-car/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/car-and-road-safety-for-kids.aspx",
+      "destination": "/es-us/blog/car-and-road-safety-for-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/car-rules-for-kids-every-parent-must-teach-\\(and-how-they-affect-your-insurance\\).aspx",
+      "destination": "/es-us/blog/car-rules-for-kids-every-parent-must-teach-and-how-they-affect-your-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/choosing-the-right-motorcycle-helmet.aspx",
+      "destination": "/es-us/blog/choosing-the-right-motorcycle-helmet/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/commercial-auto-coverage-for-ride-share-food-delivery-independent-contractors-box-truck-towing.aspx",
+      "destination": "/es-us/blog/commercial-auto-coverage-for-ride-share-food-delivery-independent-contractors-box-truck-towing/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/de-icing-your-car-in-winter-do-it-right-or-regret-it-later.aspx",
+      "destination": "/es-us/blog/de-icing-your-car-in-winter-do-it-right-or-regret-it-later/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/defensive-driving-tips-that-could-save-your-life.aspx",
+      "destination": "/es-us/blog/defensive-driving-tips-that-could-save-your-life/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/diy-vs-professional-maintenance.aspx",
+      "destination": "/es-us/blog/diy-vs-professional-maintenance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/do-high-deductible-auto-insurance-plans-save-money.aspx",
+      "destination": "/es-us/blog/do-high-deductible-auto-insurance-plans-save-money/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/does-your-insurance-cover-you-if-you-borrow-someones-car.aspx",
+      "destination": "/es-us/blog/does-your-insurance-cover-you-if-you-borrow-someones-car/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/essential-emergency-car-kit-checklist-what-every-driver-needs.aspx",
+      "destination": "/es-us/blog/essential-emergency-car-kit-checklist-what-every-driver-needs/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/essential-tips-for-navigating-rain-storms-and-slippery-roads.aspx",
+      "destination": "/es-us/blog/essential-tips-for-navigating-rain-storms-and-slippery-roads/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/expert-secrets-to-keep-your-ride-looking-brand-new.aspx",
+      "destination": "/es-us/blog/expert-secrets-to-keep-your-ride-looking-brand-new/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/factors-that-affect-your-car-insurance-rate.aspx",
+      "destination": "/es-us/blog/factors-that-affect-your-car-insurance-rate/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/home-buying-101.aspx",
+      "destination": "/es-us/blog/home-buying-101/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/home-inspections-and-improvements-to-make-this-year.aspx",
+      "destination": "/es-us/blog/home-inspections-and-improvements-to-make-this-year/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-long-do-you-have-to-have-sr-22-insurance.aspx",
+      "destination": "/es-us/blog/how-long-do-you-have-to-have-sr-22-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-modern-safety-features-help-prevent-accidents.aspx",
+      "destination": "/es-us/blog/how-modern-safety-features-help-prevent-accidents/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-much-does-full-coverage-cost-for-a-motorcycle.aspx",
+      "destination": "/es-us/blog/how-much-does-full-coverage-cost-for-a-motorcycle/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-to-be-a-smart-winter-driver.aspx",
+      "destination": "/es-us/blog/how-to-be-a-smart-winter-driver/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-to-get-your-car-out-of-mud.aspx",
+      "destination": "/es-us/blog/how-to-get-your-car-out-of-mud/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-to-keep-your-car-smelling-fresh.aspx",
+      "destination": "/es-us/blog/how-to-keep-your-car-smelling-fresh/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-to-prepare-your-car-for-winter.aspx",
+      "destination": "/es-us/blog/how-to-prepare-your-car-for-winter/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-to-protect-kids-from-reversing-vehicles.aspx",
+      "destination": "/es-us/blog/how-to-protect-kids-from-reversing-vehicles/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-to-protect-your-car-safety-security-smart-driving-tips.aspx",
+      "destination": "/es-us/blog/how-to-protect-your-car-safety-security-smart-driving-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-to-prove-a-speeding-driver-caused-your-car-accident.aspx",
+      "destination": "/es-us/blog/how-to-prove-a-speeding-driver-caused-your-car-accident/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-to-reduce-fuel-consumption-12-practical-ways-to-save-fuel-and-money.aspx",
+      "destination": "/es-us/blog/how-to-reduce-fuel-consumption-12-practical-ways-to-save-fuel-and-money/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-to-safely-change-a-flat-tire-on-a-roadside.aspx",
+      "destination": "/es-us/blog/how-to-safely-change-a-flat-tire-on-a-roadside/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-to-save-gas-and-cut-car-costs.aspx",
+      "destination": "/es-us/blog/how-to-save-gas-and-cut-car-costs/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-to-save-on-home-insurance.aspx",
+      "destination": "/es-us/blog/how-to-save-on-home-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/how-to-share-the-road-safely-with-heavy-vehicles.aspx",
+      "destination": "/es-us/blog/how-to-share-the-road-safely-with-heavy-vehicles/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/i-hit-a-deer-what-do-i-do-next.aspx",
+      "destination": "/es-us/blog/i-hit-a-deer-what-do-i-do-next/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/insurance-as-the-perfect-holidays-gift.aspx",
+      "destination": "/es-us/blog/insurance-as-the-perfect-holidays-gift/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/is-auto-insurance-cheaper-if-bundled-with-home-insurance.aspx",
+      "destination": "/es-us/blog/is-auto-insurance-cheaper-if-bundled-with-home-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/is-car-insurance-cheaper-in-the-city-or-the-suburbs.aspx",
+      "destination": "/es-us/blog/is-car-insurance-cheaper-in-the-city-or-the-suburbs/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/mistakes-not-to-make-when-getting-auto-insurance.aspx",
+      "destination": "/es-us/blog/mistakes-not-to-make-when-getting-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/motorcycle-insurance-for-young-adults.aspx",
+      "destination": "/es-us/blog/motorcycle-insurance-for-young-adults/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/motorcycle-safety-courses.aspx",
+      "destination": "/es-us/blog/motorcycle-safety-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/never-leave-these-things-in-your-car.aspx",
+      "destination": "/es-us/blog/never-leave-these-things-in-your-car/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/night-driving-tips.aspx",
+      "destination": "/es-us/blog/night-driving-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/plan-a-safe-driving-route-with-these-things-in-mind.aspx",
+      "destination": "/es-us/blog/plan-a-safe-driving-route-with-these-things-in-mind/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/pros-and-cons-of-adding-a-teen-driver-to-your-car-insurance-policy.aspx",
+      "destination": "/es-us/blog/pros-and-cons-of-adding-a-teen-driver-to-your-car-insurance-policy/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/protecting-your-car-during-pothole-season.aspx",
+      "destination": "/es-us/blog/protecting-your-car-during-pothole-season/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/renters-insurance-and-expenses-coverage.aspx",
+      "destination": "/es-us/blog/renters-insurance-and-expenses-coverage/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/safe-winter-driving-tips.aspx",
+      "destination": "/es-us/blog/safe-winter-driving-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/selling-your-vehicle.aspx",
+      "destination": "/es-us/blog/selling-your-vehicle/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/sharing-the-road-with-other-road-users-in-summer.aspx",
+      "destination": "/es-us/blog/sharing-the-road-with-other-road-users-in-summer/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/signs-your-vehicle-needs-attention-and-why-servicing-matters.aspx",
+      "destination": "/es-us/blog/signs-your-vehicle-needs-attention-and-why-servicing-matters/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/simple-ways-to-avoid-road-rage.aspx",
+      "destination": "/es-us/blog/simple-ways-to-avoid-road-rage/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/snacks-to-pack-for-a-long-road-trip.aspx",
+      "destination": "/es-us/blog/snacks-to-pack-for-a-long-road-trip/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/so-you-are-about-to-buy-your-first-car.aspx",
+      "destination": "/es-us/blog/so-you-are-about-to-buy-your-first-car/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/so-your-car-got-scratched-whats-next.aspx",
+      "destination": "/es-us/blog/so-your-car-got-scratched-whats-next/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/so-youre-driving-home-for-christmas.aspx",
+      "destination": "/es-us/blog/so-youre-driving-home-for-christmas/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/",
+      "destination": "/es-us/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/auto%20insurance%20accidents/",
+      "destination": "/es-us/blog/tag/auto-insurance-accidents/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/auto%20insurance%20quotes/",
+      "destination": "/es-us/blog/tag/auto-insurance-quotes/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/auto%20insurance",
+      "destination": "/es-us/blog/tag/auto-insurance/",
+      "permanent": true,
+      "has": [
+        {
+          "type": "query",
+          "key": "/",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "source": "/es-us/blog/tag/auto%20insurance/",
+      "destination": "/es-us/blog/tag/auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/basic%20insurance/",
+      "destination": "/es-us/blog/tag/basic-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/boat%20insurance/",
+      "destination": "/es-us/blog/tag/boat-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/business%20auto%20insurance/",
+      "destination": "/es-us/blog/tag/business-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/business%20auto/",
+      "destination": "/es-us/blog/tag/business-auto/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/car%20insurance%20accident/",
+      "destination": "/es-us/blog/tag/car-insurance-accident/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/car%20insurance%20quotes/",
+      "destination": "/es-us/blog/tag/car-insurance-quotes/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/car%20insurance/",
+      "destination": "/es-us/blog/tag/car-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/cheap%20auto%20insurance/",
+      "destination": "/es-us/blog/tag/cheap-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/cheap%20car%20insurance/",
+      "destination": "/es-us/blog/tag/cheap-car-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/commercial%20auto%20insurance/",
+      "destination": "/es-us/blog/tag/commercial-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/commercial%20auto/",
+      "destination": "/es-us/blog/tag/commercial-auto/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/commercial%20insurance/",
+      "destination": "/es-us/blog/tag/commercial-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/full%20coverage%20insurance%20quotes/",
+      "destination": "/es-us/blog/tag/full-coverage-insurance-quotes/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/home%20inspections/",
+      "destination": "/es-us/blog/tag/home-inspections/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/home%20insurance/",
+      "destination": "/es-us/blog/tag/home-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/homeowners%20insurance/",
+      "destination": "/es-us/blog/tag/homeowners-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/insurance%20prices/",
+      "destination": "/es-us/blog/tag/insurance-prices/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/insurance%20quotes/",
+      "destination": "/es-us/blog/tag/insurance-quotes/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/insurance%20rates/",
+      "destination": "/es-us/blog/tag/insurance-rates/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/liability%20insurance%20quotes/",
+      "destination": "/es-us/blog/tag/liability-insurance-quotes/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/liability%20insurance/",
+      "destination": "/es-us/blog/tag/liability-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/minimum%20liability/",
+      "destination": "/es-us/blog/tag/minimum-liability/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/motorcycle%20insurance/",
+      "destination": "/es-us/blog/tag/motorcycle-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/nonstandard%20auto%20insurance/",
+      "destination": "/es-us/blog/tag/nonstandard-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/renters%20insurance/",
+      "destination": "/es-us/blog/tag/renters-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/sr22%20insurance/",
+      "destination": "/es-us/blog/tag/sr22-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tag/winter%20driving/",
+      "destination": "/es-us/blog/tag/winter-driving/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/technological-advancements-to-expect-in-future-cars.aspx",
+      "destination": "/es-us/blog/technological-advancements-to-expect-in-future-cars/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/teen-driving-101-the-ultimate-teen-driving-guide-for-parents-and-teens.aspx",
+      "destination": "/es-us/blog/teen-driving-101-the-ultimate-teen-driving-guide-for-parents-and-teens/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tennessee-insurance-laws.aspx",
+      "destination": "/es-us/blog/tennessee-insurance-laws/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/the-hidden-habits-that-could-be-making-you-a-high-risk-driver.aspx",
+      "destination": "/es-us/blog/the-hidden-habits-that-could-be-making-you-a-high-risk-driver/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/the-most-important-drive-of-your-life-preparing-for-the-hospital-with-your-pregnant-wife.aspx",
+      "destination": "/es-us/blog/the-most-important-drive-of-your-life-preparing-for-the-hospital-with-your-pregnant-wife/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/the-ultimate-guide-to-choosing-installing-adjusting-your-childs-car-seat.aspx",
+      "destination": "/es-us/blog/the-ultimate-guide-to-choosing-installing-adjusting-your-childs-car-seat/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/the-ultimate-guide-to-extending-the-life-of-your-car.aspx",
+      "destination": "/es-us/blog/the-ultimate-guide-to-extending-the-life-of-your-car/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/the-ultimate-guide-to-protecting-your-car-from-hail-damage.aspx",
+      "destination": "/es-us/blog/the-ultimate-guide-to-protecting-your-car-from-hail-damage/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/the-ultimate-guide-to-traveling-with-dogs-in-the-summer.aspx",
+      "destination": "/es-us/blog/the-ultimate-guide-to-traveling-with-dogs-in-the-summer/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/things-that-can-damage-your-car-paint-\\(and-how-to-save-it-before-its-too-late\\).aspx",
+      "destination": "/es-us/blog/things-that-can-damage-your-car-paint-and-how-to-save-it-before-its-too-late/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tips-for-choosing-the-right-mechanic-or-auto-shop.aspx",
+      "destination": "/es-us/blog/tips-for-choosing-the-right-mechanic-or-auto-shop/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tips-for-safe-fall-driving.aspx",
+      "destination": "/es-us/blog/tips-for-safe-fall-driving/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tips-to-ensure-a-smooth-insurance-claim.aspx",
+      "destination": "/es-us/blog/tips-to-ensure-a-smooth-insurance-claim/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tips-to-keep-you-and-your-car-safe-at-night.aspx",
+      "destination": "/es-us/blog/tips-to-keep-you-and-your-car-safe-at-night/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/tips-to-prevent-distraction-while-driving-10-practical-ways-to-stay-focused.aspx",
+      "destination": "/es-us/blog/tips-to-prevent-distraction-while-driving-10-practical-ways-to-stay-focused/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/top-15-winter-car-survival-checklist.aspx",
+      "destination": "/es-us/blog/top-15-winter-car-survival-checklist/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/top-reasons-to-switch-car-insurance-today.aspx",
+      "destination": "/es-us/blog/top-reasons-to-switch-car-insurance-today/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/understanding-your-auto-insurance.aspx",
+      "destination": "/es-us/blog/understanding-your-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/vehicle-maintenance-and-car-insurance-how-regular-car-care-reduces-risks-and-costs.aspx",
+      "destination": "/es-us/blog/vehicle-maintenance-and-car-insurance-how-regular-car-care-reduces-risks-and-costs/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-are-tennessees-car-insurance-requirements.aspx",
+      "destination": "/es-us/blog/what-are-tennessees-car-insurance-requirements/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-are-the-commercial-auto-insurance-requirements-in-tennessee.aspx",
+      "destination": "/es-us/blog/what-are-the-commercial-auto-insurance-requirements-in-tennessee/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-are-the-differences-between-octanes-of-gas.aspx",
+      "destination": "/es-us/blog/what-are-the-differences-between-octanes-of-gas/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-does-full-coverage-car-insurance-mean.aspx",
+      "destination": "/es-us/blog/what-does-full-coverage-car-insurance-mean/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-does-liability-cover.aspx",
+      "destination": "/es-us/blog/what-does-liability-cover/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-insurance-steps-to-take-after-car-accident.aspx",
+      "destination": "/es-us/blog/what-insurance-steps-to-take-after-car-accident/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-is-basic-auto-insurance-coverage.aspx",
+      "destination": "/es-us/blog/what-is-basic-auto-insurance-coverage/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-is-full-coverage-auto-insurance.aspx",
+      "destination": "/es-us/blog/what-is-full-coverage-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-is-nonstandard-auto-insurance.aspx",
+      "destination": "/es-us/blog/what-is-nonstandard-auto-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-is-renters-insurance.aspx",
+      "destination": "/es-us/blog/what-is-renters-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-is-the-average-cost-of-boat-insurance.aspx",
+      "destination": "/es-us/blog/what-is-the-average-cost-of-boat-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-rules-should-you-set-for-a-teen-driver.aspx",
+      "destination": "/es-us/blog/what-rules-should-you-set-for-a-teen-driver/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-suggestions-do-we-have-for-new-and-student-drivers.aspx",
+      "destination": "/es-us/blog/what-suggestions-do-we-have-for-new-and-student-drivers/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-to-do-if-your-car-is-stolen.aspx",
+      "destination": "/es-us/blog/what-to-do-if-your-car-is-stolen/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-to-do-when-your-car-brakes-fail.aspx",
+      "destination": "/es-us/blog/what-to-do-when-your-car-brakes-fail/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/what-you-should-understand-about-electric-vehicles.aspx",
+      "destination": "/es-us/blog/what-you-should-understand-about-electric-vehicles/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/whats-under-the-hood-of-my-car.aspx",
+      "destination": "/es-us/blog/whats-under-the-hood-of-my-car/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/who-is-at-fault-in-a-sideswipe-car-accident-heres-what-you-need-to-know.aspx",
+      "destination": "/es-us/blog/who-is-at-fault-in-a-sideswipe-car-accident-heres-what-you-need-to-know/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/why-am-i-a-distracted-driver-understanding-and-preventing-dangerous-habits.aspx",
+      "destination": "/es-us/blog/why-am-i-a-distracted-driver-understanding-and-preventing-dangerous-habits/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/why-apartments-require-renters-insurance.aspx",
+      "destination": "/es-us/blog/why-apartments-require-renters-insurance/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/why-is-having-proof-of-insurance-so-important.aspx",
+      "destination": "/es-us/blog/why-is-having-proof-of-insurance-so-important/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/why-wont-my-car-start-in-the-cold.aspx",
+      "destination": "/es-us/blog/why-wont-my-car-start-in-the-cold/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/will-a-parking-ticket-affect-insurance-rates.aspx",
+      "destination": "/es-us/blog/will-a-parking-ticket-affect-insurance-rates/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/blog/winterize-your-home-to-help-prevent-frozen-pipes.aspx",
+      "destination": "/es-us/blog/winterize-your-home-to-help-prevent-frozen-pipes/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/boat",
+      "destination": "/es-us/boat/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/boat/watercraft_insurance_quote.aspx",
+      "destination": "/es-us/get_a_quote/#boat",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/business/commercial_auto_quote.aspx",
+      "destination": "/es-us/get_a_quote/#commercial_auto",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/category.aspx",
+      "destination": "/es-us/content/tn-drivers-license-reinstatement/",
+      "permanent": true,
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "MISC1"
+        }
+      ]
+    },
+    {
+      "source": "/es-us/category.aspx",
+      "destination": "/es-us/category/",
+      "permanent": true,
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "MISC2"
+        }
+      ]
+    },
+    {
+      "source": "/es-us/claims.aspx",
+      "destination": "/es-us/claims/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/commercial_auto",
+      "destination": "/es-us/commercial_auto/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/commercial_auto/default.aspx",
+      "destination": "/es-us/commercial_auto/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact.aspx",
+      "destination": "/es-us/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/0",
+      "destination": "/es-us/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/100",
+      "destination": "/es-us/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/1300",
+      "destination": "/es-us/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/200",
+      "destination": "/es-us/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/300",
+      "destination": "/es-us/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/400",
+      "destination": "/es-us/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/900",
+      "destination": "/es-us/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/ashley_lowe",
+      "destination": "/es-us/contact/ashley_lowe/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/ashley_lowe.aspx",
+      "destination": "/es-us/employees/ashley-lowe/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/brandi_twaddle",
+      "destination": "/es-us/contact/brandi_twaddle/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/brandi_twaddle.aspx",
+      "destination": "/es-us/employees/brandi-twaddle/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/brianna_estrada",
+      "destination": "/es-us/contact/brianna_estrada/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/brianna_estrada.aspx",
+      "destination": "/es-us/employees/brianna-estrada/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/crystal_shaw",
+      "destination": "/es-us/contact/crystal_shaw/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/crystal_shaw.aspx",
+      "destination": "/es-us/employees/crystal-shaw/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/gaby_rincon",
+      "destination": "/es-us/contact/gaby_rincon/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/gaby_rincon.aspx",
+      "destination": "/es-us/employees/gaby-rincon/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/isabel_garcia",
+      "destination": "/es-us/contact/isabel_garcia/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/isabel_garcia.aspx",
+      "destination": "/es-us/employees/isabel-garcia/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/melinda_hernandez",
+      "destination": "/es-us/contact/melinda_hernandez/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/contact/melinda_hernandez.aspx",
+      "destination": "/es-us/employees/melinda-hernandez/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/content/smyrna",
+      "destination": "/es-us/content/smyrna/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/content/smyrna.aspx",
+      "destination": "/es-us/content/smyrna/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/content/tn-drivers-license-reinstatement.aspx",
+      "destination": "/es-us/content/tn-drivers-license-reinstatement/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/customer_service/",
+      "destination": "/es-us/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/homeowners",
+      "destination": "/es-us/homeowners/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/homeowners/insurance_quote.aspx",
+      "destination": "/es-us/get_a_quote/#homeowners",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/links.aspx",
+      "destination": "/es-us/carriers/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/links/",
+      "destination": "/es-us/carriers/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations.aspx",
+      "destination": "/es-us/locations/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/",
+      "destination": "/es-us/locations/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/TN/37130/default.aspx",
+      "destination": "/es-us/locations/murfreesboro/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/TN/37167/default.aspx",
+      "destination": "/es-us/locations/smyrna/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/TN/default.aspx",
+      "destination": "/es-us/locations/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/AB",
+      "destination": "/es-us/locations/tn/murfreesboro/AB/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/AK",
+      "destination": "/es-us/locations/tn/murfreesboro/AK/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/AL",
+      "destination": "/es-us/locations/tn/murfreesboro/AL/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/AR",
+      "destination": "/es-us/locations/tn/murfreesboro/AR/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/AZ",
+      "destination": "/es-us/locations/tn/murfreesboro/AZ/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/BC",
+      "destination": "/es-us/locations/tn/murfreesboro/BC/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/CA",
+      "destination": "/es-us/locations/tn/murfreesboro/CA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/CO",
+      "destination": "/es-us/locations/tn/murfreesboro/CO/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/CT",
+      "destination": "/es-us/locations/tn/murfreesboro/CT/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/DC",
+      "destination": "/es-us/locations/tn/murfreesboro/DC/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/DE",
+      "destination": "/es-us/locations/tn/murfreesboro/DE/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/FL",
+      "destination": "/es-us/locations/tn/murfreesboro/FL/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/GA",
+      "destination": "/es-us/locations/tn/murfreesboro/GA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/HI",
+      "destination": "/es-us/locations/tn/murfreesboro/HI/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/IA",
+      "destination": "/es-us/locations/tn/murfreesboro/IA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/ID",
+      "destination": "/es-us/locations/tn/murfreesboro/ID/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/IL",
+      "destination": "/es-us/locations/tn/murfreesboro/IL/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/IN",
+      "destination": "/es-us/locations/tn/murfreesboro/IN/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/KS",
+      "destination": "/es-us/locations/tn/murfreesboro/KS/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/KY",
+      "destination": "/es-us/locations/tn/murfreesboro/KY/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/LA",
+      "destination": "/es-us/locations/tn/murfreesboro/LA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/MA",
+      "destination": "/es-us/locations/tn/murfreesboro/MA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/MB",
+      "destination": "/es-us/locations/tn/murfreesboro/MB/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/MD",
+      "destination": "/es-us/locations/tn/murfreesboro/MD/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/ME",
+      "destination": "/es-us/locations/tn/murfreesboro/ME/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/MI",
+      "destination": "/es-us/locations/tn/murfreesboro/MI/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/MN",
+      "destination": "/es-us/locations/tn/murfreesboro/MN/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/MO",
+      "destination": "/es-us/locations/tn/murfreesboro/MO/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/MS",
+      "destination": "/es-us/locations/tn/murfreesboro/MS/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/MT",
+      "destination": "/es-us/locations/tn/murfreesboro/MT/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/murfreesboro_office.aspx",
+      "destination": "/es-us/locations/murfreesboro/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/murfreesboro_office/",
+      "destination": "/es-us/locations/murfreesboro/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/NB",
+      "destination": "/es-us/locations/tn/murfreesboro/NB/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/NC",
+      "destination": "/es-us/locations/tn/murfreesboro/NC/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/ND",
+      "destination": "/es-us/locations/tn/murfreesboro/ND/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/NE",
+      "destination": "/es-us/locations/tn/murfreesboro/NE/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/NH",
+      "destination": "/es-us/locations/tn/murfreesboro/NH/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/NJ",
+      "destination": "/es-us/locations/tn/murfreesboro/NJ/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/NL",
+      "destination": "/es-us/locations/tn/murfreesboro/NL/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/NM",
+      "destination": "/es-us/locations/tn/murfreesboro/NM/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/NS",
+      "destination": "/es-us/locations/tn/murfreesboro/NS/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/NT",
+      "destination": "/es-us/locations/tn/murfreesboro/NT/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/NU",
+      "destination": "/es-us/locations/tn/murfreesboro/NU/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/NV",
+      "destination": "/es-us/locations/tn/murfreesboro/NV/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/NY",
+      "destination": "/es-us/locations/tn/murfreesboro/NY/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/OH",
+      "destination": "/es-us/locations/tn/murfreesboro/OH/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/OK",
+      "destination": "/es-us/locations/tn/murfreesboro/OK/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/ON",
+      "destination": "/es-us/locations/tn/murfreesboro/ON/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/OR",
+      "destination": "/es-us/locations/tn/murfreesboro/OR/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/PA",
+      "destination": "/es-us/locations/tn/murfreesboro/PA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/PE",
+      "destination": "/es-us/locations/tn/murfreesboro/PE/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/PR",
+      "destination": "/es-us/locations/tn/murfreesboro/PR/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/QC",
+      "destination": "/es-us/locations/tn/murfreesboro/QC/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/RI",
+      "destination": "/es-us/locations/tn/murfreesboro/RI/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/SC",
+      "destination": "/es-us/locations/tn/murfreesboro/SC/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/SD",
+      "destination": "/es-us/locations/tn/murfreesboro/SD/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/SK",
+      "destination": "/es-us/locations/tn/murfreesboro/SK/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/TN",
+      "destination": "/es-us/locations/tn/murfreesboro/TN/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/TX",
+      "destination": "/es-us/locations/tn/murfreesboro/TX/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/UT",
+      "destination": "/es-us/locations/tn/murfreesboro/UT/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/VA",
+      "destination": "/es-us/locations/tn/murfreesboro/VA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/VT",
+      "destination": "/es-us/locations/tn/murfreesboro/VT/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/WA",
+      "destination": "/es-us/locations/tn/murfreesboro/WA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/WI",
+      "destination": "/es-us/locations/tn/murfreesboro/WI/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/WV",
+      "destination": "/es-us/locations/tn/murfreesboro/WV/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/WY",
+      "destination": "/es-us/locations/tn/murfreesboro/WY/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/murfreesboro/YT",
+      "destination": "/es-us/locations/tn/murfreesboro/YT/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/AB",
+      "destination": "/es-us/locations/tn/smyrna/AB/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/AK",
+      "destination": "/es-us/locations/tn/smyrna/AK/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/AL",
+      "destination": "/es-us/locations/tn/smyrna/AL/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/AR",
+      "destination": "/es-us/locations/tn/smyrna/AR/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/AZ",
+      "destination": "/es-us/locations/tn/smyrna/AZ/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/BC",
+      "destination": "/es-us/locations/tn/smyrna/BC/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/CA",
+      "destination": "/es-us/locations/tn/smyrna/CA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/CO",
+      "destination": "/es-us/locations/tn/smyrna/CO/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/CT",
+      "destination": "/es-us/locations/tn/smyrna/CT/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/DC",
+      "destination": "/es-us/locations/tn/smyrna/DC/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/DE",
+      "destination": "/es-us/locations/tn/smyrna/DE/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/FL",
+      "destination": "/es-us/locations/tn/smyrna/FL/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/GA",
+      "destination": "/es-us/locations/tn/smyrna/GA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/HI",
+      "destination": "/es-us/locations/tn/smyrna/HI/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/IA",
+      "destination": "/es-us/locations/tn/smyrna/IA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/ID",
+      "destination": "/es-us/locations/tn/smyrna/ID/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/IL",
+      "destination": "/es-us/locations/tn/smyrna/IL/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/IN",
+      "destination": "/es-us/locations/tn/smyrna/IN/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/KS",
+      "destination": "/es-us/locations/tn/smyrna/KS/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/KY",
+      "destination": "/es-us/locations/tn/smyrna/KY/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/LA",
+      "destination": "/es-us/locations/tn/smyrna/LA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/MA",
+      "destination": "/es-us/locations/tn/smyrna/MA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/MB",
+      "destination": "/es-us/locations/tn/smyrna/MB/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/MD",
+      "destination": "/es-us/locations/tn/smyrna/MD/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/ME",
+      "destination": "/es-us/locations/tn/smyrna/ME/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/MI",
+      "destination": "/es-us/locations/tn/smyrna/MI/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/MN",
+      "destination": "/es-us/locations/tn/smyrna/MN/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/MO",
+      "destination": "/es-us/locations/tn/smyrna/MO/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/MS",
+      "destination": "/es-us/locations/tn/smyrna/MS/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/MT",
+      "destination": "/es-us/locations/tn/smyrna/MT/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/NB",
+      "destination": "/es-us/locations/tn/smyrna/NB/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/NC",
+      "destination": "/es-us/locations/tn/smyrna/NC/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/ND",
+      "destination": "/es-us/locations/tn/smyrna/ND/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/NE",
+      "destination": "/es-us/locations/tn/smyrna/NE/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/NH",
+      "destination": "/es-us/locations/tn/smyrna/NH/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/NJ",
+      "destination": "/es-us/locations/tn/smyrna/NJ/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/NL",
+      "destination": "/es-us/locations/tn/smyrna/NL/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/NM",
+      "destination": "/es-us/locations/tn/smyrna/NM/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/NS",
+      "destination": "/es-us/locations/tn/smyrna/NS/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/NT",
+      "destination": "/es-us/locations/tn/smyrna/NT/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/NU",
+      "destination": "/es-us/locations/tn/smyrna/NU/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/NV",
+      "destination": "/es-us/locations/tn/smyrna/NV/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/NY",
+      "destination": "/es-us/locations/tn/smyrna/NY/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/OH",
+      "destination": "/es-us/locations/tn/smyrna/OH/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/OK",
+      "destination": "/es-us/locations/tn/smyrna/OK/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/ON",
+      "destination": "/es-us/locations/tn/smyrna/ON/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/OR",
+      "destination": "/es-us/locations/tn/smyrna/OR/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/PA",
+      "destination": "/es-us/locations/tn/smyrna/PA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/PE",
+      "destination": "/es-us/locations/tn/smyrna/PE/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/PR",
+      "destination": "/es-us/locations/tn/smyrna/PR/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/QC",
+      "destination": "/es-us/locations/tn/smyrna/QC/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/RI",
+      "destination": "/es-us/locations/tn/smyrna/RI/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/SC",
+      "destination": "/es-us/locations/tn/smyrna/SC/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/SD",
+      "destination": "/es-us/locations/tn/smyrna/SD/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/SK",
+      "destination": "/es-us/locations/tn/smyrna/SK/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/smyrna_office.aspx",
+      "destination": "/es-us/locations/smyrna/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/smyrna_office/",
+      "destination": "/es-us/locations/smyrna/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/TN",
+      "destination": "/es-us/locations/tn/smyrna/TN/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/TX",
+      "destination": "/es-us/locations/tn/smyrna/TX/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/UT",
+      "destination": "/es-us/locations/tn/smyrna/UT/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/VA",
+      "destination": "/es-us/locations/tn/smyrna/VA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/VT",
+      "destination": "/es-us/locations/tn/smyrna/VT/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/WA",
+      "destination": "/es-us/locations/tn/smyrna/WA/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/WI",
+      "destination": "/es-us/locations/tn/smyrna/WI/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/WV",
+      "destination": "/es-us/locations/tn/smyrna/WV/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/WY",
+      "destination": "/es-us/locations/tn/smyrna/WY/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/locations/tn/smyrna/YT",
+      "destination": "/es-us/locations/tn/smyrna/YT/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/motorcycle",
+      "destination": "/es-us/motorcycle/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/motorcycle/insurance_quote.aspx",
+      "destination": "/es-us/get_a_quote/#motorcycle",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/payments.aspx",
+      "destination": "/es-us/payments/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/privacy.aspx",
+      "destination": "/es-us/privacy/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/profile/ashley_lowe.aspx",
+      "destination": "/es-us/employees/ashley-lowe/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/profile/brandi_twaddle.aspx",
+      "destination": "/es-us/employees/brandi-twaddle/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/profile/brianna_estrada.aspx",
+      "destination": "/es-us/employees/brianna-estrada/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/profile/crystal_shaw.aspx",
+      "destination": "/es-us/employees/crystal-shaw/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/profile/gaby_rincon.aspx",
+      "destination": "/es-us/employees/gaby-rincon/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/profile/isabel_garcia.aspx",
+      "destination": "/es-us/employees/isabel-garcia/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/profile/melinda_hernandez.aspx",
+      "destination": "/es-us/employees/melinda-hernandez/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/rental_property/default.aspx",
+      "destination": "/es-us/rental_property/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/renters",
+      "destination": "/es-us/renters/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/renters/AmericanStaffordshireTerrier",
+      "destination": "/es-us/renters/AmericanStaffordshireTerrier/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/renters/insurance_quote.aspx",
+      "destination": "/es-us/get_a_quote/#renters",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/renters/StaffordshireBullTerrier",
+      "destination": "/es-us/renters/StaffordshireBullTerrier/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/resources/default.aspx",
+      "destination": "/es-us/resources/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/rv",
+      "destination": "/es-us/rv/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/sr_22",
+      "destination": "/es-us/sr_22/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/sr_22/default.aspx",
+      "destination": "/es-us/sr_22/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/testimonials.aspx",
+      "destination": "/es-us/testimonials/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/tn",
+      "destination": "/es-us/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/tn/about/",
+      "destination": "/es-us/about/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/tn/about/auto-insurance/default.aspx",
+      "destination": "/es-us/automobile/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/tn/home-mobi/",
+      "destination": "/es-us/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/tn/home-mobi/carrier-direct-claims-bill-payments/",
+      "destination": "/es-us/claims/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/tn/online-quotes/",
+      "destination": "/es-us/get_a_quote/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/tn/scheduling-under-homeowners/",
+      "destination": "/es-us/content/",
+      "permanent": true
+    },
+    {
+      "source": "/es-us/tn/virtual-tour/",
+      "destination": "/es-us/",
+      "permanent": true
+    },
+    {
+      "source": "/homeowners",
+      "destination": "/homeowners/",
+      "permanent": true
+    },
+    {
+      "source": "/homeowners/insurance_quote.aspx",
+      "destination": "/get_a_quote/#homeowners",
+      "permanent": true
+    },
+    {
+      "source": "/links.aspx",
+      "destination": "/carriers/",
+      "permanent": true
+    },
+    {
+      "source": "/links/",
+      "destination": "/carriers/",
+      "permanent": true
+    },
+    {
+      "source": "/locations.aspx",
+      "destination": "/locations/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/",
+      "destination": "/locations/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/TN/37130/default.aspx",
+      "destination": "/locations/murfreesboro/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/TN/37167/default.aspx",
+      "destination": "/locations/smyrna/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/TN/default.aspx",
+      "destination": "/locations/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/AB",
+      "destination": "/locations/tn/murfreesboro/AB/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/AK",
+      "destination": "/locations/tn/murfreesboro/AK/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/AL",
+      "destination": "/locations/tn/murfreesboro/AL/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/AR",
+      "destination": "/locations/tn/murfreesboro/AR/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/AZ",
+      "destination": "/locations/tn/murfreesboro/AZ/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/BC",
+      "destination": "/locations/tn/murfreesboro/BC/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/CA",
+      "destination": "/locations/tn/murfreesboro/CA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/CO",
+      "destination": "/locations/tn/murfreesboro/CO/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/CT",
+      "destination": "/locations/tn/murfreesboro/CT/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/DC",
+      "destination": "/locations/tn/murfreesboro/DC/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/DE",
+      "destination": "/locations/tn/murfreesboro/DE/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/FL",
+      "destination": "/locations/tn/murfreesboro/FL/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/GA",
+      "destination": "/locations/tn/murfreesboro/GA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/HI",
+      "destination": "/locations/tn/murfreesboro/HI/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/IA",
+      "destination": "/locations/tn/murfreesboro/IA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/ID",
+      "destination": "/locations/tn/murfreesboro/ID/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/IL",
+      "destination": "/locations/tn/murfreesboro/IL/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/IN",
+      "destination": "/locations/tn/murfreesboro/IN/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/KS",
+      "destination": "/locations/tn/murfreesboro/KS/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/KY",
+      "destination": "/locations/tn/murfreesboro/KY/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/LA",
+      "destination": "/locations/tn/murfreesboro/LA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/MA",
+      "destination": "/locations/tn/murfreesboro/MA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/MB",
+      "destination": "/locations/tn/murfreesboro/MB/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/MD",
+      "destination": "/locations/tn/murfreesboro/MD/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/ME",
+      "destination": "/locations/tn/murfreesboro/ME/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/MI",
+      "destination": "/locations/tn/murfreesboro/MI/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/MN",
+      "destination": "/locations/tn/murfreesboro/MN/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/MO",
+      "destination": "/locations/tn/murfreesboro/MO/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/MS",
+      "destination": "/locations/tn/murfreesboro/MS/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/MT",
+      "destination": "/locations/tn/murfreesboro/MT/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/murfreesboro_office.aspx",
+      "destination": "/locations/murfreesboro/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/murfreesboro_office/",
+      "destination": "/locations/murfreesboro/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/NB",
+      "destination": "/locations/tn/murfreesboro/NB/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/NC",
+      "destination": "/locations/tn/murfreesboro/NC/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/ND",
+      "destination": "/locations/tn/murfreesboro/ND/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/NE",
+      "destination": "/locations/tn/murfreesboro/NE/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/NH",
+      "destination": "/locations/tn/murfreesboro/NH/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/NJ",
+      "destination": "/locations/tn/murfreesboro/NJ/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/NL",
+      "destination": "/locations/tn/murfreesboro/NL/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/NM",
+      "destination": "/locations/tn/murfreesboro/NM/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/NS",
+      "destination": "/locations/tn/murfreesboro/NS/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/NT",
+      "destination": "/locations/tn/murfreesboro/NT/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/NU",
+      "destination": "/locations/tn/murfreesboro/NU/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/NV",
+      "destination": "/locations/tn/murfreesboro/NV/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/NY",
+      "destination": "/locations/tn/murfreesboro/NY/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/OH",
+      "destination": "/locations/tn/murfreesboro/OH/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/OK",
+      "destination": "/locations/tn/murfreesboro/OK/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/ON",
+      "destination": "/locations/tn/murfreesboro/ON/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/OR",
+      "destination": "/locations/tn/murfreesboro/OR/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/PA",
+      "destination": "/locations/tn/murfreesboro/PA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/PE",
+      "destination": "/locations/tn/murfreesboro/PE/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/PR",
+      "destination": "/locations/tn/murfreesboro/PR/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/QC",
+      "destination": "/locations/tn/murfreesboro/QC/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/RI",
+      "destination": "/locations/tn/murfreesboro/RI/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/SC",
+      "destination": "/locations/tn/murfreesboro/SC/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/SD",
+      "destination": "/locations/tn/murfreesboro/SD/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/SK",
+      "destination": "/locations/tn/murfreesboro/SK/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/TN",
+      "destination": "/locations/tn/murfreesboro/TN/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/TX",
+      "destination": "/locations/tn/murfreesboro/TX/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/UT",
+      "destination": "/locations/tn/murfreesboro/UT/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/VA",
+      "destination": "/locations/tn/murfreesboro/VA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/VT",
+      "destination": "/locations/tn/murfreesboro/VT/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/WA",
+      "destination": "/locations/tn/murfreesboro/WA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/WI",
+      "destination": "/locations/tn/murfreesboro/WI/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/WV",
+      "destination": "/locations/tn/murfreesboro/WV/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/WY",
+      "destination": "/locations/tn/murfreesboro/WY/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/murfreesboro/YT",
+      "destination": "/locations/tn/murfreesboro/YT/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/AB",
+      "destination": "/locations/tn/smyrna/AB/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/AK",
+      "destination": "/locations/tn/smyrna/AK/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/AL",
+      "destination": "/locations/tn/smyrna/AL/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/AR",
+      "destination": "/locations/tn/smyrna/AR/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/AZ",
+      "destination": "/locations/tn/smyrna/AZ/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/BC",
+      "destination": "/locations/tn/smyrna/BC/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/CA",
+      "destination": "/locations/tn/smyrna/CA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/CO",
+      "destination": "/locations/tn/smyrna/CO/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/CT",
+      "destination": "/locations/tn/smyrna/CT/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/DC",
+      "destination": "/locations/tn/smyrna/DC/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/DE",
+      "destination": "/locations/tn/smyrna/DE/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/FL",
+      "destination": "/locations/tn/smyrna/FL/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/GA",
+      "destination": "/locations/tn/smyrna/GA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/HI",
+      "destination": "/locations/tn/smyrna/HI/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/IA",
+      "destination": "/locations/tn/smyrna/IA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/ID",
+      "destination": "/locations/tn/smyrna/ID/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/IL",
+      "destination": "/locations/tn/smyrna/IL/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/IN",
+      "destination": "/locations/tn/smyrna/IN/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/KS",
+      "destination": "/locations/tn/smyrna/KS/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/KY",
+      "destination": "/locations/tn/smyrna/KY/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/LA",
+      "destination": "/locations/tn/smyrna/LA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/MA",
+      "destination": "/locations/tn/smyrna/MA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/MB",
+      "destination": "/locations/tn/smyrna/MB/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/MD",
+      "destination": "/locations/tn/smyrna/MD/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/ME",
+      "destination": "/locations/tn/smyrna/ME/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/MI",
+      "destination": "/locations/tn/smyrna/MI/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/MN",
+      "destination": "/locations/tn/smyrna/MN/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/MO",
+      "destination": "/locations/tn/smyrna/MO/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/MS",
+      "destination": "/locations/tn/smyrna/MS/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/MT",
+      "destination": "/locations/tn/smyrna/MT/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/NB",
+      "destination": "/locations/tn/smyrna/NB/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/NC",
+      "destination": "/locations/tn/smyrna/NC/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/ND",
+      "destination": "/locations/tn/smyrna/ND/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/NE",
+      "destination": "/locations/tn/smyrna/NE/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/NH",
+      "destination": "/locations/tn/smyrna/NH/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/NJ",
+      "destination": "/locations/tn/smyrna/NJ/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/NL",
+      "destination": "/locations/tn/smyrna/NL/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/NM",
+      "destination": "/locations/tn/smyrna/NM/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/NS",
+      "destination": "/locations/tn/smyrna/NS/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/NT",
+      "destination": "/locations/tn/smyrna/NT/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/NU",
+      "destination": "/locations/tn/smyrna/NU/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/NV",
+      "destination": "/locations/tn/smyrna/NV/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/NY",
+      "destination": "/locations/tn/smyrna/NY/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/OH",
+      "destination": "/locations/tn/smyrna/OH/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/OK",
+      "destination": "/locations/tn/smyrna/OK/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/ON",
+      "destination": "/locations/tn/smyrna/ON/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/OR",
+      "destination": "/locations/tn/smyrna/OR/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/PA",
+      "destination": "/locations/tn/smyrna/PA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/PE",
+      "destination": "/locations/tn/smyrna/PE/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/PR",
+      "destination": "/locations/tn/smyrna/PR/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/QC",
+      "destination": "/locations/tn/smyrna/QC/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/RI",
+      "destination": "/locations/tn/smyrna/RI/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/SC",
+      "destination": "/locations/tn/smyrna/SC/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/SD",
+      "destination": "/locations/tn/smyrna/SD/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/SK",
+      "destination": "/locations/tn/smyrna/SK/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/smyrna_office.aspx",
+      "destination": "/locations/smyrna/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/smyrna_office/",
+      "destination": "/locations/smyrna/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/TN",
+      "destination": "/locations/tn/smyrna/TN/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/TX",
+      "destination": "/locations/tn/smyrna/TX/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/UT",
+      "destination": "/locations/tn/smyrna/UT/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/VA",
+      "destination": "/locations/tn/smyrna/VA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/VT",
+      "destination": "/locations/tn/smyrna/VT/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/WA",
+      "destination": "/locations/tn/smyrna/WA/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/WI",
+      "destination": "/locations/tn/smyrna/WI/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/WV",
+      "destination": "/locations/tn/smyrna/WV/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/WY",
+      "destination": "/locations/tn/smyrna/WY/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/tn/smyrna/YT",
+      "destination": "/locations/tn/smyrna/YT/",
+      "permanent": true
+    },
+    {
+      "source": "/motorcycle",
+      "destination": "/motorcycle/",
+      "permanent": true
+    },
+    {
+      "source": "/motorcycle/insurance_quote.aspx",
+      "destination": "/get_a_quote/#motorcycle",
+      "permanent": true
+    },
+    {
+      "source": "/payments.aspx",
+      "destination": "/payments/",
+      "permanent": true
+    },
+    {
+      "source": "/privacy.aspx",
+      "destination": "/privacy/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/ashley_lowe.aspx",
+      "destination": "/employees/ashley-lowe/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/brandi_twaddle.aspx",
+      "destination": "/employees/brandi-twaddle/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/brianna_estrada.aspx",
+      "destination": "/employees/brianna-estrada/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/crystal_shaw.aspx",
+      "destination": "/employees/crystal-shaw/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/gaby_rincon.aspx",
+      "destination": "/employees/gaby-rincon/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/isabel_garcia.aspx",
+      "destination": "/employees/isabel-garcia/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/melinda_hernandez.aspx",
+      "destination": "/employees/melinda-hernandez/",
+      "permanent": true
+    },
+    {
+      "source": "/rental_property/default.aspx",
+      "destination": "/rental_property/",
+      "permanent": true
+    },
+    {
+      "source": "/renters",
+      "destination": "/renters/",
+      "permanent": true
+    },
+    {
+      "source": "/renters/AmericanStaffordshireTerrier",
+      "destination": "/renters/AmericanStaffordshireTerrier/",
+      "permanent": true
+    },
+    {
+      "source": "/renters/insurance_quote.aspx",
+      "destination": "/get_a_quote/#renters",
+      "permanent": true
+    },
+    {
+      "source": "/renters/StaffordshireBullTerrier",
+      "destination": "/renters/StaffordshireBullTerrier/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/default.aspx",
+      "destination": "/resources/",
+      "permanent": true
+    },
+    {
+      "source": "/rv",
+      "destination": "/rv/",
+      "permanent": true
+    },
+    {
+      "source": "/sr_22",
+      "destination": "/sr_22/",
+      "permanent": true
+    },
+    {
+      "source": "/sr_22/default.aspx",
+      "destination": "/sr_22/",
+      "permanent": true
+    },
+    {
+      "source": "/testimonials.aspx",
+      "destination": "/testimonials/",
+      "permanent": true
+    },
+    {
+      "source": "/tn",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tn/about/",
+      "destination": "/about/",
+      "permanent": true
+    },
+    {
+      "source": "/tn/about/auto-insurance/default.aspx",
+      "destination": "/automobile/",
+      "permanent": true
+    },
+    {
+      "source": "/tn/home-mobi/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tn/home-mobi/carrier-direct-claims-bill-payments/",
+      "destination": "/claims/",
+      "permanent": true
+    },
+    {
+      "source": "/tn/online-quotes/",
+      "destination": "/get_a_quote/",
+      "permanent": true
+    },
+    {
+      "source": "/tn/scheduling-under-homeowners/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tn/tag/home/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/tn/virtual-tour/",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}

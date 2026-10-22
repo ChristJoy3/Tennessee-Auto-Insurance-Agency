@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# migration working data (large, regenerable via npm run migrate:*)
+/migration/raw/
+/migration/images-raw/
+/migration/structured/
+/migration/content-inventory.json
+/migration/images.json
+/migration/*.log
+/migration/*.out

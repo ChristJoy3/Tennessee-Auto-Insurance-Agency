@@ -1,26 +1,416 @@
 @import "tailwindcss";
 
+/* ───────────────────────── Brand tokens ─────────────────────────
+   Red from the logo + old site CSS (#d2232a), near-black, warm off-white.
+   Red on paper = 4.9:1 and white on red = 5.0:1 (WCAG AA). */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --red: #d2232a;
+  --red-deep: #a9171d;
+  --ink: #141414;
+  --ink-2: #2a2a2a;
+  --paper: #f6f3ee;
+  --paper-2: #ebe5db;
+  --white: #ffffff;
+  --muted: #5d5a55;
+  --line: rgb(20 20 20 / 0.14);
+  --line-light: rgb(246 243 238 / 0.18);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --gutter: clamp(1rem, 4vw, 3.5rem);
+  --nav-h: 4.25rem;
+  --safe-b: env(safe-area-inset-bottom, 0px);
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-red: var(--red);
+  --color-red-deep: var(--red-deep);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-paper: var(--paper);
+  --color-paper-2: var(--paper-2);
+  --color-muted: var(--muted);
+  --font-display: var(--font-archivo), "Arial Narrow", sans-serif;
+  --font-sans: var(--font-figtree), system-ui, sans-serif;
+  --font-mono: var(--font-jetbrains), ui-monospace, monospace;
+  --breakpoint-md: 48rem; /* 768 tablet */
+  --breakpoint-xl: 80rem; /* 1280 desktop */
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* Custom CSS lives in layers so Tailwind utilities (hidden, min-h-*, max-w-*) always win. */
+@layer base {
+/* ───────────────────────── Base ───────────────────────── */
+html {
+  -webkit-text-size-adjust: 100%;
+  overflow-x: clip;
+  scroll-behavior: auto;
+}
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: 1.0625rem; /* 17px, never below 16 */
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: clip;
+}
+body.scroll-locked {
+  overflow: hidden;
+  touch-action: none;
+}
+::selection {
+  background: var(--red);
+  color: var(--white);
+}
+:focus-visible {
+  outline: 2px dashed var(--red);
+  outline-offset: 3px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+}
+
+@layer components {
+/* ───────────────────────── Type ───────────────────────── */
+.display {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-stretch: 112%;
+  letter-spacing: -0.035em;
+  line-height: 0.9;
+  text-transform: uppercase;
+}
+.h-hero {
+  font-size: clamp(2.35rem, 12.4vw, 11.5rem);
+}
+:lang(es) .h-hero {
+  font-size: clamp(2.1rem, 10.2vw, 10rem);
+}
+.display {
+  overflow-wrap: anywhere;
+  hyphens: auto;
+}
+.h-xl {
+  font-size: clamp(2.5rem, 8vw, 7rem);
+}
+.h-lg {
+  font-size: clamp(2rem, 5.6vw, 4.6rem);
+}
+.h-md {
+  font-size: clamp(1.6rem, 3.6vw, 2.8rem);
+}
+.lead {
+  font-size: clamp(1.125rem, 1.6vw, 1.375rem);
+  line-height: 1.5;
+}
+/* "Mile marker" labels */
+.mile {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6em;
+}
+.mile::before {
+  content: "";
+  width: 1.75rem;
+  height: 0;
+  border-top: 2px dashed currentColor;
+}
+.outline-text {
+  color: transparent;
+  -webkit-text-stroke: 1.5px currentColor;
+}
+
+/* Road-sign-inspired chip (rounded plate with inner rule, not official signage) */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.25rem;
+  padding: 0.3rem 0.85rem;
+  border-radius: 0.5rem;
+  border: 1.5px solid currentColor;
+  box-shadow: inset 0 0 0 3px var(--paper), inset 0 0 0 4.5px currentColor;
+  font-family: var(--font-display);
+  font-stretch: 110%;
+  font-weight: 700;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.chip-dark {
+  box-shadow: inset 0 0 0 3px var(--ink), inset 0 0 0 4.5px currentColor;
+}
+
+/* ───────────────────────── Buttons & links ───────────────────────── */
+.btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  min-height: 3.25rem;
+  padding: 0.8rem 1.6rem;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.1;
+  transition:
+    background-color 0.35s var(--ease-out),
+    color 0.35s var(--ease-out),
+    transform 0.35s var(--ease-out);
+  will-change: transform;
+}
+.btn-red {
+  background: var(--red);
+  color: var(--white);
+}
+.btn-red:hover {
+  background: var(--red-deep);
+}
+.btn-ink {
+  background: var(--ink);
+  color: var(--paper);
+}
+.btn-ink:hover {
+  background: var(--ink-2);
+}
+.btn-line {
+  border: 1.5px solid currentColor;
+}
+.btn-line:hover {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
+.on-dark .btn-line:hover {
+  background: var(--paper);
+  color: var(--ink);
+  border-color: var(--paper);
+}
+/* Dashed-lane underline that draws on hover */
+.lane-link {
+  background-image: linear-gradient(90deg, currentColor 50%, transparent 50%);
+  background-size: 10px 2px;
+  background-repeat: repeat-x;
+  background-position: 0 100%;
+  padding-bottom: 3px;
+  transition: background-size 0.3s var(--ease-out), color 0.2s;
+}
+@media (hover: hover) and (pointer: fine) {
+  .lane-link {
+    background-size: 10px 0;
+  }
+  .lane-link:hover {
+    background-size: 10px 2px;
+    color: var(--red);
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* ───────────────────────── Layout helpers ───────────────────────── */
+.wrap {
+  width: 100%;
+  max-width: 96rem;
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+.section {
+  padding-block: clamp(5rem, 12vw, 10rem);
+}
+.on-dark {
+  background: var(--ink);
+  color: var(--paper);
+}
+.hairline {
+  border-color: var(--line);
+}
+.on-dark .hairline {
+  border-color: var(--line-light);
+}
+
+/* Faint topographic contour texture (SVG, very low opacity) */
+.contours {
+  background-image: url("/textures/contours.svg");
+  background-size: 1100px auto;
+  background-repeat: repeat;
+}
+/* Film grain overlay (pure CSS, no JS) */
+.grain::after {
+  content: "";
+  position: fixed;
+  inset: -50%;
+  pointer-events: none;
+  z-index: 60;
+  opacity: 0.05;
+  background-image: url("/textures/grain.png");
+  background-size: 180px;
+}
+
+/* ───────────────────────── Old-site content (verbatim HTML) ───────────────────────── */
+.prose-content {
+  max-width: 46rem;
+  font-size: 1.0625rem;
+}
+.prose-content > * + * {
+  margin-top: 1.1em;
+}
+.prose-content h2,
+.prose-content h3,
+.prose-content h4 {
+  font-family: var(--font-display);
+  font-stretch: 108%;
+  font-weight: 800;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+  margin-top: 2em;
+  text-transform: none;
+}
+.prose-content h2 {
+  font-size: clamp(1.6rem, 3vw, 2.25rem);
+}
+.prose-content h3 {
+  font-size: clamp(1.3rem, 2.2vw, 1.65rem);
+}
+.prose-content h4 {
+  font-size: 1.15rem;
+}
+.prose-content a {
+  color: var(--red-deep);
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-underline-offset: 3px;
+}
+.prose-content ul,
+.prose-content ol {
+  padding-left: 1.3em;
+}
+.prose-content ul {
+  list-style: none;
+}
+.prose-content ul > li {
+  position: relative;
+}
+.prose-content ul > li::before {
+  content: "";
+  position: absolute;
+  left: -1.15em;
+  top: 0.75em;
+  width: 0.6em;
+  border-top: 2px dashed var(--red);
+}
+.prose-content ol {
+  list-style: decimal;
+}
+.prose-content li + li {
+  margin-top: 0.45em;
+}
+.prose-content img {
+  border-radius: 1rem;
+  margin-block: 1.5rem;
+}
+.prose-content .table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+}
+.prose-content table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+.prose-content td,
+.prose-content th {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+.prose-content hr {
+  border: 0;
+  border-top: 2px dashed var(--line);
+  margin-block: 2rem;
+}
+.prose-content strong,
+.prose-content b {
+  font-weight: 700;
+}
+
+/* ───────────────────────── Motion helpers ───────────────────────── */
+.line-mask {
+  display: block;
+  overflow: clip;
+  padding-bottom: 0.06em;
+}
+[data-reveal] {
+  will-change: transform, opacity;
+}
+.no-js [data-reveal] {
+  opacity: 1 !important;
+  transform: none !important;
+}
+@media (prefers-reduced-motion: reduce) {
+  [data-preloader] {
+    display: none !important;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* Mobile: no heavy effects */
+@media (max-width: 767px) {
+  .grain::after {
+    display: none;
+  }
+}
+
+/* Scroll-snap carousels (mobile-first, keyboard friendly) */
+.snap-row {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: min(86vw, 26rem);
+  gap: 1rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  overscroll-behavior-x: contain;
+  scrollbar-width: none;
+  padding-inline: var(--gutter);
+  scroll-padding-inline: var(--gutter);
+}
+.snap-row::-webkit-scrollbar {
+  display: none;
+}
+.snap-row > * {
+  scroll-snap-align: start;
+  align-self: start;
+}
+
+/* Marquee */
+@keyframes marquee {
+  to {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee var(--marquee-speed, 40s) linear infinite;
+}
+.marquee:hover .marquee-track {
+  animation-play-state: paused;
+}
 }

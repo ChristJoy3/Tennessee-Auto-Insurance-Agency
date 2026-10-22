@@ -1,0 +1,70 @@
+{
+  "dropped": [
+    {
+      "page": "/tn/tag/home/",
+      "what": "image /images/spacer.gif"
+    },
+    {
+      "page": "/tn/tag/home/",
+      "what": "image /images/spacer.gif"
+    },
+    {
+      "page": "/tn/tag/home/",
+      "what": "image /images/spacer.gif"
+    },
+    {
+      "page": "/tn/tag/home/",
+      "what": "image /images/spacer.gif"
+    },
+    {
+      "page": "/tn/tag/home/",
+      "what": "image /images/spacer.gif"
+    },
+    {
+      "page": "/tn/tag/home/",
+      "what": "image /images/spacer.gif"
+    },
+    {
+      "page": "/tn/tag/home/",
+      "what": "image /images/spacer.gif"
+    },
+    {
+      "page": "/tn/tag/home/",
+      "what": "image /images/spacer.gif"
+    },
+    {
+      "page": "/tn/tag/home/",
+      "what": "image /images/spacer.gif"
+    },
+    {
+      "page": "/tn/tag/home/",
+      "what": "image /images/spacer.gif"
+    },
+    {
+      "page": "/tn/tag/home/",
+      "what": "image https://chart.googleapis.com/chart?cht=qr&chs=125x125&chl=https://www.insuringyouforless.com/m/blog/?lang=es&choe=UTF-8&chld=L|4"
+    },
+    {
+      "page": "https://www.insuringyouforless.com/blog/how-to-get-your-car-out-of-mud.aspx",
+      "what": "image https://media.istockphoto.com/id/947522864/photo/the-car-is-stuck-on-a-bad-road-in-the-mud.jpg?b=1&s=612x612&w=0&k=20&c=bbeHPJa9PgTBOL3f3rcmB4J67malFME0rtr3zUFUvSI="
+    },
+    {
+      "page": "https://www.insuringyouforless.com/blog/how-long-do-you-have-to-have-sr-22-insurance.aspx",
+      "what": "image https://damthumbs.gettyimages.com/at/sx84thcwr8tbvwgvbbn7b45?expiry=1648476113&fit=bounds&height=162&sig=YWFmNjdiOWU4ODg1OWEzMDI0N2QxYWZkMzI4NTQ5MzBhNzU2ZjVmNQ%3D%3D&width=262"
+    },
+    {
+      "page": "https://www.insuringyouforless.com/blog/commercial-auto-coverage-for-ride-share-food-delivery-independent-contractors-box-truck-towing.aspx",
+      "what": "image https://damthumbs.gettyimages.com/at/qcpbxwcc4zbw2jxtpq3s3f44/v/1012649279?expiry=1645739161&fit=bounds&height=800&sig=M2FlYzU0MjQ0MTJlZGZmZjJiOGE4MTYzNjBjMjdmZWYyZTZkZDZmYg%3D%3D&width=1100"
+    },
+    {
+      "page": "https://www.insuringyouforless.com/blog/tennessee-insurance-laws.aspx",
+      "what": "image file:///C:/Users/Jeff/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png"
+    }
+  ],
+  "skipped": [
+    "/customer_service/",
+    "/es-us/customer_service/",
+    "/tn",
+    "/es-us/tn"
+  ]
+}
